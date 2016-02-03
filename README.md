@@ -1,2 +1,1 @@
-##Zichao Yang
-#Lab3
+#
